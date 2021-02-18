@@ -1,0 +1,11 @@
+Python Librarys 
+speech_recognition
+time
+webbrowser
+pyttsx3
+pyjokes
+cv2
+os
+requests
+datetime
+newsapi
